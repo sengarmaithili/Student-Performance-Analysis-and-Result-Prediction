@@ -7,7 +7,7 @@ def activity_csv():
     # print(list_of_paths_to_files)
     # [print(i) for i in list_of_paths_to_files]
     for i in list_of_paths_to_files:
-        print(i)
+        # print(i)
         df = pd.read_json(i)
         df.to_csv(f'/home/user3/Documents/Cdac-Project/activity_csv/activity_{i[-8:-5]}.csv', index=None,header=True)
 
@@ -59,13 +59,13 @@ def stress_csv():
 stress_csv()
 
 def sleep_csv():
-    pathname = '/home/sunbeam/Downloads/Project/dataset/dataset/EMA/response/Sleep/*.json'
+    pathname = '/home/user3/Documents/Cdac-Project/Sleep/*.json'
     list_of_paths_to_files = glob.glob(pathname)
     # print(list_of_paths_to_files)
     # [print(i) for i in list_of_paths_to_files]
     for i in list_of_paths_to_files:
         df = pd.read_json(i)
-        df.to_csv(f'/home/sunbeam/Downloads/Project/dataset/sleep_csv/sleep_{i[-8:-5]}.csv', index=None,
+        df.to_csv(f'/home/user3/Documents/Cdac-Project/sleep_csv/sleep_{i[-8:-5]}.csv', index=None,
                   header=True)
 sleep_csv()
 
