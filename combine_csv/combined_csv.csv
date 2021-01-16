@@ -1,0 +1,152 @@
+u46,['it was pretty pointless. most people went out to frats last night rather than participating in discussions']
+u19,"['frustrated'
+ ""token action by the administration that won't really achieve anything""]"
+u16,['unfair' 'pointless' 'enabling ignorant people' 'waste of my tuition']
+u07,['Absurd']
+u10,['bs' 'bullshit']
+u08,['bad idea' 'annoyed']
+u44,['needed']
+u49,[' restful and productiv']
+u30,['unnecessary']
+u18,['ugh' 'yay']
+u01,['Terrible and stupid response']
+u27,['meh']
+u17,['surprised' '--\n' '---']
+u57,"[""It's important to realize that the issues that led to classes being cancelled are important. Canceling classes is such a rare thing that it really emphasizes this. I think missing one day of classes in order to try to grow as a campus is worthwhile and justified. After all learning isn't only done in the class room.""]"
+u59,"['a lot of procrastination' 'I slept a lot today' 'more sleep yay'
+ 'a lot of procrastination']"
+u35,['excited']
+u00,['bummef' 'falling behind ' 'there is a need for pause and reflection']
+u32,['goof cause but maybe not best avenue for response ']
+u14,['awesome' 'homework']
+u56,"[""it's kinda bullshit""]"
+u33,['grateful']
+u58,['nervous ']
+u39,['happy']
+u51,['no']
+u46,"0    it was pretty pointless. most people went out ...
+Name: words, dtype: object"
+u19,"0                                           frustrated
+1    token action by the administration that won't ...
+Name: words, dtype: object"
+u16,"0                      unfair
+1                   pointless
+2    enabling ignorant people
+3         waste of my tuition
+Name: words, dtype: object"
+u07,"0    Absurd
+Name: words, dtype: object"
+u10,"0          bs
+1    bullshit
+Name: words, dtype: object"
+u08,"0    bad idea
+1     annoyed
+Name: words, dtype: object"
+u44,"0    needed
+Name: words, dtype: object"
+u49,"0     restful and productiv
+Name: words, dtype: object"
+u30,"0    unnecessary
+Name: words, dtype: object"
+u18,"0    ugh
+1    yay
+Name: words, dtype: object"
+u01,"0    Terrible and stupid response
+Name: words, dtype: object"
+u27,"0    meh
+Name: words, dtype: object"
+u17,"0    surprised
+1         --\n
+2          ---
+Name: words, dtype: object"
+u57,"0    It's important to realize that the issues that...
+Name: words, dtype: object"
+u59,"0    a lot of procrastination
+1         I slept a lot today
+2              more sleep yay
+3    a lot of procrastination
+Name: words, dtype: object"
+u35,"0    excited
+Name: words, dtype: object"
+u00,"0                                      bummef
+1                             falling behind 
+2    there is a need for pause and reflection
+Name: words, dtype: object"
+u32,"0    goof cause but maybe not best avenue for respo...
+Name: words, dtype: object"
+u14,"0     awesome
+1    homework
+Name: words, dtype: object"
+u56,"0    it's kinda bullshit
+Name: words, dtype: object"
+u33,"0    grateful
+Name: words, dtype: object"
+u58,"0    nervous 
+Name: words, dtype: object"
+u39,"0    happy
+Name: words, dtype: object"
+u51,"0    no
+Name: words, dtype: object"
+u46,"0    it was pretty pointless. most people went out ...
+Name: words, dtype: object"
+u19,"0                                           frustrated
+1    token action by the administration that won't ...
+Name: words, dtype: object"
+u16,"0                      unfair
+1                   pointless
+2    enabling ignorant people
+3         waste of my tuition
+Name: words, dtype: object"
+u07,"0    Absurd
+Name: words, dtype: object"
+u10,"0          bs
+1    bullshit
+Name: words, dtype: object"
+u08,"0    bad idea
+1     annoyed
+Name: words, dtype: object"
+u44,"0    needed
+Name: words, dtype: object"
+u49,"0     restful and productiv
+Name: words, dtype: object"
+u30,"0    unnecessary
+Name: words, dtype: object"
+u18,"0    ugh
+1    yay
+Name: words, dtype: object"
+u01,"0    Terrible and stupid response
+Name: words, dtype: object"
+u27,"0    meh
+Name: words, dtype: object"
+u17,"0    surprised
+1         --\n
+2          ---
+Name: words, dtype: object"
+u57,"0    It's important to realize that the issues that...
+Name: words, dtype: object"
+u59,"0    a lot of procrastination
+1         I slept a lot today
+2              more sleep yay
+3    a lot of procrastination
+Name: words, dtype: object"
+u35,"0    excited
+Name: words, dtype: object"
+u00,"0                                      bummef
+1                             falling behind 
+2    there is a need for pause and reflection
+Name: words, dtype: object"
+u32,"0    goof cause but maybe not best avenue for respo...
+Name: words, dtype: object"
+u14,"0     awesome
+1    homework
+Name: words, dtype: object"
+u56,"0    it's kinda bullshit
+Name: words, dtype: object"
+u33,"0    grateful
+Name: words, dtype: object"
+u58,"0    nervous 
+Name: words, dtype: object"
+u39,"0    happy
+Name: words, dtype: object"
+u51,"0    no
+Name: words, dtype: object"
